@@ -1,0 +1,16 @@
+.card {
+    width: 350px;
+    padding: 10px;
+border: 2px solid whitesmoke;
+
+}
+
+
+
+#box{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 70px;
+
+}
